@@ -1,0 +1,16 @@
+assemblyEnv
+ml-agents
+envs/
+**/__pycache__
+**pyc
+**npy
+**DS_Store
+src/baselines
+baselines
+src/trained_models
+src/SaveData
+src/temp
+src/temp.txt
+src/auto_plot.sh
+src/pytorch-tools
+pytorch-tools
