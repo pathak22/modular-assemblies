@@ -9,7 +9,7 @@ MIT
 <img src="envs/teaser.jpg" width="500">
 </img></a>
 
-This is a tensorflow based implementation for our [ICML 2017 paper on curiosity-driven exploration for reinforcement learning](http://pathak22.github.io/noreward-rl/). Idea is to train agent with intrinsic curiosity-based motivation (ICM) when external rewards from environment are sparse. Surprisingly, you can use ICM even when there are no rewards available from the environment, in which case, agent learns to explore only out of curiosity: 'RL without rewards'. If you find this work useful in your research, please cite:
+This is a pytorch based implementation for our [paper on learning to control self-assembling agents using deep reinforcement learning](https://pathak22.github.io/modular-assemblies/). We investigate a modular co-evolution strategy: a collection of primitive agents learns to dynamically self-assemble into composite bodies while also learning to coordinate their behavior to control these bodies. We learn compositional policies to demonstrate better zero-shot generalization. If you find this work useful in your research, please cite:
 
     @inproceedings{pathak19assemblies,
         Author = {Pathak, Deepak and Lu, Chris and Darrell, Trevor and
