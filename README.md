@@ -1,7 +1,7 @@
 ## Learning to Control Self-Assembling Morphologies ##
-#### [[Project Website]](https://pathak22.github.io/modular-assemblies/) [[Demo Video]](https://www.youtube.com/watch?v=heR2yD8HOvY)
+#### [[Project Website]](https://pathak22.github.io/modular-assemblies/) [[Demo Video]](https://youtu.be/ngCIB-IWD8E)
 
-[Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Chris Lu](https://chris-lu.weebly.com/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Phillip Isola](https://www.eecs.mit.edu/people/faculty/phillip-isola/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/)<br/>
+[Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/)&ast;, [Chris Lu](https://chris-lu.weebly.com/)&ast;, [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Phillip Isola](https://www.eecs.mit.edu/people/faculty/phillip-isola/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/)<br/>
 University of California, Berkeley<br/>
 MIT
 
