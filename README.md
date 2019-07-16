@@ -1,4 +1,5 @@
 ## Learning to Control Self-Assembling Morphologies ##
+### Winner of [Virtual Creatures Competition at GECCO 2019, Prague](https://virtualcreatures.github.io/)
 #### [[Project Website]](https://pathak22.github.io/modular-assemblies/) [[Demo Video]](https://youtu.be/ngCIB-IWD8E)
 
 [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/)&ast;, [Chris Lu](https://chris-lu.weebly.com/)&ast;, [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Phillip Isola](https://www.eecs.mit.edu/people/faculty/phillip-isola/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/)<br/>
